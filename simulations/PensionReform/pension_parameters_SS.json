@@ -1,0 +1,24 @@
+{
+    "retirement_age": [
+        59
+    ],
+    "pension_system": "US-Style Social Security",
+    "tau_p": 0.0,
+    "indR": 0.0,
+    "k_ret": 0.0,
+    "alpha_db": 0.00,
+    "vpoint": 0.0,
+    "yr_contrib": 38,
+    "avg_earn_num_years": 38,
+    "AIME_bkt_1": 0.0,
+    "AIME_bkt_2": 0.0,
+    "PIA_rate_bkt_1": 0.19,
+    "PIA_rate_bkt_2": 0.19,
+    "PIA_rate_bkt_3": 0.19,
+    "PIA_maxpayment": 99999999.99,
+    "PIA_minpayment": 0.00,
+    "replacement_rate_adjust": [
+        1.0
+    ],
+    "tau_payroll": [0.015]
+}
